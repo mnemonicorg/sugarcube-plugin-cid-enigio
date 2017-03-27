@@ -1,5 +1,5 @@
 {
-  "name": "littlefork-boilerplate-plugin",
+  "name": "littlefork-plugin-enigio",
   "version": "0.0.1",
   "description": "A littlefork plugin to timestamp and verify downloads with enigio",
   "main": "_dist/index.js",
