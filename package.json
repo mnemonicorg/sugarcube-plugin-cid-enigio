@@ -63,6 +63,7 @@
     "bluebird": "^3.5.0",
     "fs": "0.0.1-security",
     "littlefork": "^0.9.1",
+    "littlefork-core": "^1.0.0-rc.1",
     "lodash": "^4.17.4",
     "node-fetch": "^1.6.3"
   }
